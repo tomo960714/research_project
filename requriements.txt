@@ -1,0 +1,8 @@
+torch 
+torchvision
+torchaudio
+wfdb
+numpy
+pandas
+ruff
+pytest
